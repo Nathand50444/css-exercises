@@ -1,6 +1,6 @@
 .odd {
     background-color: pink;
-    font-family: Verdana, "DejaVu Sans", sans-serif
+    font-family: Verdana, Geneva, Tahoma, sans-serif, "DejaVu Sans"
 }
 
 #two {
@@ -8,12 +8,11 @@
     font-size: 36px;    
 }
 
-#three {
+#adjust-font-size {
     font-size: 24px;
 }
 
 #four {
     background-color: lightgreen;
-    font-size: 24px;
-    font-style: bold;
+    font-weight: bold;
 }
